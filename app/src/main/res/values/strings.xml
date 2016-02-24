@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">Pomak</string>
+    <string name="action_scan">Skeniraj QR/Bar kod</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+
+    <string-array name="tabs">
+        <item>Početna</item>
+        <item>O nam</item>
+        <item>Proizvodni program</item>
+        <item>Usluge</item>
+        <item>Kontakt</item>
+    </string-array>
+</resources>
